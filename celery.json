@@ -5,6 +5,14 @@
             {
                 "path": "config/",
                 "name": "dependencias.json"
+            },
+            {
+                "path": "AQNEXT/",
+                "name": "settings.py"
+            },
+            {
+                "path": "AQNEXT/",
+                "name": "celery.py"
             }
         ],
         "addFile": [],
